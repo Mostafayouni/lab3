@@ -1,6 +1,6 @@
 # lab3
 This a bash script to ping in all ips at a specific subnet and print a message " up and running " when ping success and " unreeachable " when ping fail 
-  #!/bin/bash
+#!/bin/bash
 
   subnet="192.168.8"
   for host in {0..250}; do
