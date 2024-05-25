@@ -71,6 +71,7 @@ You can add this explanation to the README file in your GitHub repository to hel
 ![1111](https://github.com/Mostafayouni/lab3/assets/105316729/a3246f7f-19db-4bcc-8452-2eb79d9aa049)
 
 
-![Uploading 222.png…]()
+![222](https://github.com/Mostafayouni/lab3/assets/105316729/e737adcc-e141-4882-87d7-bac7a9a9dadc)
+
 
 
